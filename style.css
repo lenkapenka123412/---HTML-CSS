@@ -1,0 +1,45 @@
+body {
+    font-family: "PT Sans", "Arial", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.title {
+    color: #22191e;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.titletext {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.but {
+    width: 300px;
+    background-color: rgb(178, 177, 244);
+    height: 40px;
+    font-size: 14px;
+    border: 1px solid #3977ae;
+    border-radius: 10px;
+}
